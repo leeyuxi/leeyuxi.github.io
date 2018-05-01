@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F05%2F01%2F123%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F04%2F16%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[First blog]]></title>
+    <url>%2F2018%2F05%2F01%2Ffirst%20blog%2F</url>
+    <content type="text"><![CDATA[Welcome to yuxi’s blog!This is my first blog. 第一篇博客前言前不久在听滴滴安全团队宣讲，一位师傅建议学习时写博客可以整理思维，便有了搭一个博客的想法。搭博客时借鉴了 pupiles的博客教程。 闲叙现状“习惯性懒惰颓废，间接性奋发图强”，这怕是我上大学后的基本状态。心中并非无大志向，却被舒适区的安逸迷惑。经常感慨大牛的天赋与努力，却始终无法做到全力以赴的努力。或许以往18年的相对平稳给我安全感，让我无法切切实实感到危机。 希冀“鸡蛋从外部打破是鸡蛋，从内部打破就是生命”。认知并接受现在的窘境，我相信我可以升华自己，越过舒适区。 结语希望从这篇博客开始，我可以改正不好的习惯，将时间用来学习，做自己真正想做的事。]]></content>
   </entry>
 </search>
